@@ -2,32 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Copy README</title>
-<style>
-  body { font-family: monospace; white-space: pre-wrap; margin: 20px; }
-  button {
-    background-color: #5865F2;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    cursor: pointer;
-    border-radius: 5px;
-    font-size: 16px;
-    margin-bottom: 15px;
-  }
-  button:hover {
-    background-color: #4752c4;
-  }
-  #content {
-    border: 1px solid #ddd;
-    padding: 15px;
-    max-height: 500px;
-    overflow-y: scroll;
-    background-color: #f9f9f9;
-  }
-</style>
-</head>
-<body>
 
 <button onclick="copyText()">📋 Copy README</button>
 
