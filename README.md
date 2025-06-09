@@ -34,8 +34,6 @@
 <div id="content">
 # Crunchyroll Account Checker
 
-A Python script to check Crunchyroll account validity with proxy support and sending valid/custom accounts to a Discord webhook.
-
 ---
 
 ## Requirements
