@@ -61,4 +61,4 @@ cd your-repo
 
 Run the script
 
-```python checker.py```
+```python checker crunchyroll.py```
